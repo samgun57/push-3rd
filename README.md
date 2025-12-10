@@ -1,2 +1,2 @@
-# push-3rd
-push 3
+# Hello Project 
+This is a simple example project to demonstrate how to push to GitHub. 
